@@ -1,5 +1,5 @@
 ### About 
-TempFileRemover Will help you remove temp files in your pc.If you want to make your own version then check out
+TempFileRemover Will help you remove temp files in your pc.If you want to make your own version then check out <a href="https://github.com/shourgamer2/TempFileRemover#copyright">Copyright</a> , <a href="https://github.com/shourgamer2/TempFileRemover#how-to-see-the-code">How to see the code </a> and <a href="https://github.com/shourgamer2/TempFileRemover#modify">Modify</a>
 ### Download
 <a href="https://github.com/shourgamer2/TempFileRemover/releases/download/ver1.1.0/TempFileDeleter.bat">Download</a> <br>
 Run the batch file as administrator  <br>
