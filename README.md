@@ -46,4 +46,5 @@ del /f /q *
 echo Temp Files Have Been Deleted
 ```
 ### Copyright
-  
+  Copyright (c) 2022 Shourjjo Majumder
+If you copy this app please mention my github profile and repo.
