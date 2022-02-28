@@ -1,6 +1,3 @@
-Download verison 1.1.0 <br>
-<a href="https://github.com/shourgamer2/TempFileRemover/releases/download/ver1.1.0/TempFileDeleter.bat">Download version 1.1.0</a> <br>
+<a href="https://github.com/shourgamer2/TempFileRemover/releases/download/ver1.1.0/TempFileDeleter.bat">Download</a> <br>
 Run the batch file as administrator  <br>
-Download verison 1.0.0 <br>
-<a href="https://github.com/shourgamer2/TempFileRemover/releases/download/Ver1.0.0/TempFileDeleter.bat">Download version 1.0.0</a> <br>
-Run the batch file as administrator
+![image](https://user-images.githubusercontent.com/90188229/155931898-04e7e5bf-b9ba-45c6-b158-927a6f1ef9b0.png)
